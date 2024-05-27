@@ -19,10 +19,10 @@ function Footer() {
         </div>
         <div className='right w-full md:w-[50%]'>
           <ul className='font-mono underline'>
-            <li><a href='#' className='hover:text-gray-400'>Home</a></li>
-            <li><a href='#' className='hover:text-gray-400'>About</a></li>
-            <li><a href='#' className='hover:text-gray-400'>Services</a></li>
-            <li><a href='#' className='hover:text-gray-400'>Contact</a></li>
+            <li><a href='/' className='hover:text-gray-400'>Home</a></li>
+            <li><a href='/about' className='hover:text-gray-400'>About</a></li>
+            <li><a href='/service' className='hover:text-gray-400'>Services</a></li>
+            <li><a href='contact' className='hover:text-gray-400'>Contact</a></li>
           </ul>
         </div>
       </div>
