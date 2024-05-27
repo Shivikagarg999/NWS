@@ -1,0 +1,11 @@
+.heading {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 1.9s ease-out, transform 1.9s ease-out;
+  }
+  
+  .heading.animate {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
