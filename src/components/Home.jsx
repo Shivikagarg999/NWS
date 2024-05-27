@@ -22,7 +22,7 @@ function Home() {
           Transform Your Business
         </h1>
        <div className='flex items-center justify-center'>
-       <a href='/service' className='bg-white  text-black font-semibold px-4 py-2 rounded-md mt-5 self-center'>Services</a> {/* Centering the button horizontally */}
+       <a href='service' className='bg-white  text-black font-semibold px-4 py-2 rounded-md mt-5 self-center'>Services</a> {/* Centering the button horizontally */}
       
        </div>
         <div className='w-full p-12 flex flex-col md:flex-row justify-between items-center'>
