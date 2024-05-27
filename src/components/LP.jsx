@@ -8,9 +8,9 @@ function LP() {
       description: 'We optimize your website for lightning-fast performance, ensuring quick loading times and better user experience.'
     },
     {
-      title: 'Cloud Solutions',
-      description: 'Utilize the power of cloud computing for scalability, security, and reliability of your web applications and services.'
-    },
+      "title": "Web Development",
+      "description": "Leverage modern web development technologies to create scalable, secure, and reliable web applications and services."
+  },
     {
       title: 'Web Designing',
       description: 'Our expert designers create stunning and user-friendly websites tailored to your brand and target audience.'
